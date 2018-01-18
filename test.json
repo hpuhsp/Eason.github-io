@@ -3,7 +3,11 @@
   "msg": "",
   "data": {
     "oid": "59799529d5e2392e088b4b93",
-    "cover_img": "FqPsavn9U8ZOWZ3jQwnqONqCkzzH",
+    "cover_img": [
+      {
+        "image": "FoqgJIB76hMlFsj2h9WAgeb5DsYG|599|338"
+      }
+    ],
     "isVip": false,
     "vipPrice": 246,
     "normalPrice": 308,
