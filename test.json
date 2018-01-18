@@ -3,9 +3,126 @@
   "msg": "",
   "data": {
     "oid": "59799529d5e2392e088b4b93",
-    "title": "夏日饮酒指南 | 被你严重低估的“啤酒混血儿”：科隆啤酒！",
-    "summary": "德国人将科隆啤酒称之为拉格啤酒，因为他们会将所有冷藏贮存（Lagered，或者称为窖藏贮存）过的啤酒都称之为拉格，不论是哪种酵母酿造的啤酒。",
     "cover_img": "FqPsavn9U8ZOWZ3jQwnqONqCkzzH",
+    "isVip": false,
+    "vipPrice": 246,
+    "normalPrice": 308,
+    "procuctName": "STONE 傲慢的混蛋ALE拉链帽衫",
+    "prodectDesc": "对于那些需求的人来说，这款拉链帽衫是你的首发阵容",
+    "skuList": [
+      {
+        "name": "2X",
+        "id": 0,
+        "colorParamter": [
+          {
+            "name": "CHR",
+            "id": 10
+          },
+          {
+            "name": "BK",
+            "id": 11
+          }
+        ]
+      },
+      {
+        "name": "3X",
+        "id": 1,
+        "colorParamter": [
+          {
+            "name": "CHR",
+            "id": 10
+          },
+          {
+            "name": "BK",
+            "id": 11
+          }
+        ]
+      },
+      {
+        "name": "2X",
+        "id": 2,
+        "colorParamter": [
+          {
+            "name": "CHR",
+            "id": 10
+          },
+          {
+            "name": "BK",
+            "id": 11
+          }
+        ]
+      },
+      {
+        "name": "LG",
+        "id": 3,
+        "colorParamter": [
+          {
+            "name": "VI",
+            "id": 10
+          },
+          {
+            "name": "WT",
+            "id": 11
+          }
+        ]
+      },
+      {
+        "name": "MD",
+        "id": 4,
+        "colorParamter": [
+          {
+            "name": "RD",
+            "id": 10
+          },
+          {
+            "name": "PL",
+            "id": 11
+          }
+        ]
+      },
+      {
+        "name": "XL",
+        "id": 5,
+        "colorParamter": [
+          {
+            "name": "CHR",
+            "id": 10
+          },
+          {
+            "name": "BK",
+            "id": 11
+          }
+        ]
+      },
+      {
+        "name": "XXL",
+        "id": 6,
+        "colorParamter": [
+          {
+            "name": "CHR",
+            "id": 10
+          },
+          {
+            "name": "BK",
+            "id": 11
+          }
+        ]
+      },
+      {
+        "name": "XXXL",
+        "id": 7,
+        "colorParamter": [
+          {
+            "name": "GY",
+            "id": 70
+          },
+          {
+            "name": "OG",
+            "id": 71
+          }
+        ]
+      }
+    ],
     "client_content": [
       {
         "type": "h1",
@@ -594,37 +711,6 @@
         "align": ""
       }
     ],
-    "created_at": 1501140265,
-    "commentCnt": 2,
-    "favorited": false,
-    "relations": [
-      {
-        "oid": "59647f27d5e2392b158b4d7c",
-        "title": "一次关于“精酿”的临时采访",
-        "summary": "纯粹是巧合，最近多次在多种场合跟不同朋友聊起“精酿”，也深知该话题已被不同的媒体、不同的大咖反复议论过很多次，但仍然让我的心为之一动想要听听跟啤酒相关的不同职业、不同角度的热爱啤酒的朋友的想法。",
-        "cover_img": "FgZXFJkWa1cBXDSvQvXqs_IZXFp-",
-        "created_at": 1498823820
-      },
-      {
-        "oid": "5971c42bd5e239d43a8b4b89",
-        "title": "长图测试",
-        "summary": "达萨时代",
-        "cover_img": "FlHRuDWSbprcVLnmBV_Dch-8us3o",
-        "created_at": 1500628011
-      }
-    ],
-    "author": {
-      "nickname": "酒花儿",
-      "avatar": "FtKY97kVATDg_pKqPEinrI4cqxeZ",
-      "desc": "精酿啤酒爱好者在线社区，致力于创建、品尝、点评和分享高质量的工艺啤酒！",
-      "tag": "官方",
-      "oid": "5959ffafe1cb99e8ec1d5728"
-    },
-    "category": {
-      "name": "入门",
-      "oid": 11
-    },
-    "followship": "unfollow",
     "comments": [
       {
         "oid": "59a7cc2912235b4b3dd4b3a0",
