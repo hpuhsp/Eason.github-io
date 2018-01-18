@@ -9,6 +9,7 @@
     "normalPrice": 308,
     "procuctName": "STONE 傲慢的混蛋ALE拉链帽衫",
     "prodectDesc": "对于那些需求的人来说，这款拉链帽衫是你的首发阵容",
+    "quality": 3,
     "skuList": [
       {
         "name": "2X",
@@ -709,50 +710,6 @@
         "type": "text",
         "content": "\n",
         "align": ""
-      }
-    ],
-    "comments": [
-      {
-        "oid": "59a7cc2912235b4b3dd4b3a0",
-        "content": "啦啦",
-        "author": {
-          "oid": "56ebf8686bc5a34744a46c18",
-          "avatar": "80a602d3-9960-41db-b3ff-4462b0733e14|720|720",
-          "nickname": "吃鸡高手"
-        },
-        "news": {
-          "title": "Summer Drink Guide | You are seriously underestimated by the \"beer breeder\": Kölsch Beer!",
-          "summary": "德国人将科隆啤酒称之为拉格啤酒，因为他们会将所有冷藏贮存（Lagered，或者称为窖藏贮存）过的啤酒都称之为拉格，不论是哪种酵母酿造的啤酒。",
-          "cover_img": "FqPsavn9U8ZOWZ3jQwnqONqCkzzH",
-          "oid": "59799529d5e2392e088b4b93"
-        },
-        "type": "COMMENT_NEWS",
-        "replyCnt": 0,
-        "praiseCnt": 0,
-        "createTime": 1504169001,
-        "praised": false,
-        "followship": "self"
-      },
-      {
-        "oid": "59a7cc2012235b4b3dd4b39e",
-        "content": "哈哈",
-        "author": {
-          "oid": "56ebf8686bc5a34744a46c18",
-          "avatar": "80a602d3-9960-41db-b3ff-4462b0733e14|720|720",
-          "nickname": "吃鸡高手"
-        },
-        "news": {
-          "title": "Summer Drink Guide | You are seriously underestimated by the \"beer breeder\": Kölsch Beer!",
-          "summary": "德国人将科隆啤酒称之为拉格啤酒，因为他们会将所有冷藏贮存（Lagered，或者称为窖藏贮存）过的啤酒都称之为拉格，不论是哪种酵母酿造的啤酒。",
-          "cover_img": "FqPsavn9U8ZOWZ3jQwnqONqCkzzH",
-          "oid": "59799529d5e2392e088b4b93"
-        },
-        "type": "COMMENT_NEWS",
-        "replyCnt": 0,
-        "praiseCnt": 0,
-        "createTime": 1504168992,
-        "praised": false,
-        "followship": "self"
       }
     ]
   }
