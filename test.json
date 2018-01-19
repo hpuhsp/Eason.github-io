@@ -136,6 +136,7 @@
       },
       {
         "type": "text",
+        "isIndentation":true,
         "content": "STONE酒厂位于美国加州，成立于1996年，是南加州最大的啤酒厂，截止2014年，它的年销量在美国精酿啤酒厂中排名第九。2015年STONE决定在德国首都柏林建造新的酒厂，新世界酒厂进驻欧洲大陆，该酒厂于2016年开业。",
         "align": ""
       },
@@ -155,6 +156,7 @@
       },
       {
         "type": "text",
+        "isIndentation":true,
         "content": "时间切回到1999年夏季，比尔·克林顿总统访德，参加科隆（Köln）举行的G8峰会。在他品尝完当地的特色——科隆啤酒之后，他想起36年前肯尼迪的那句话，于是在媒体记者面前，举起酒杯，兴奋地喊道“Ich bin ein Kölsch”。第二天，德国媒体纷纷报道克林顿闹出的笑话：克林顿其实想说我是科隆人（Kölner），但用错了词，成了“我是一科隆啤酒。（Kölsch）”",
         "align": ""
       },
@@ -166,21 +168,6 @@
       {
         "type": "image",
         "content": "cms/ueditor/upload/image/20170726/1501059778795467.jpg|640|494"
-      },
-      {
-        "type": "text",
-        "content": "\n",
-        "align": ""
-      },
-      {
-        "type": "text",
-        "content": "\n",
-        "align": ""
-      },
-      {
-        "type": "text",
-        "content": "\n",
-        "align": ""
       },
       {
         "type": "text",
